@@ -1,4 +1,4 @@
-### Charging base location
+## Charging base location
 
 ![floor plan](https://raw.githubusercontent.com/caiteltd/public/master/assets/floor-plan.png)
 
