@@ -1,4 +1,4 @@
-### Privacy policy
+## Privacy policy
 **Your privacy is important to us. Please read our privacy statement with care.**
 
 This privacy policy sets out how Càite Ltd (Càite) uses and protects any information that you give us when you use this website.

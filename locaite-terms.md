@@ -1,4 +1,4 @@
-### Locàite App Terms and Conditions
+## Locàite Terms and Conditions
 
 Càite Ltd is a company incorporated in Scotland with company number **SC632205** and having its registered office at 64a Cumberland Street, Edinburgh, Scotland, EH3 6RE, UK ("**we**", "**us**", "**our**"). Our mobile app is called Locàite (the "**APP**").
 
