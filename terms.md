@@ -1,8 +1,9 @@
 ### Locàite App Terms and Conditions
 
-Càite Ltd is a company incorporated in Scotland with company number SC632205 and having its registered office at 64a Cumberland Street, Edinburgh, Scotland, EH3 6RE, UK (“we“, “us“, “our“). Our mobile app is called Locàite (the “APP“).
+Càite Ltd is a company incorporated in Scotland with company number **SC632205** and having its registered office at 64a Cumberland Street, Edinburgh, Scotland, EH3 6RE, UK ("**we**", "**us**", "**our**"). Our mobile app is called Locàite (the "**APP**").
 
-Set out below are the terms and conditions (the “Terms“) you are agreeing to when you use (however you access it from any mobile device) the APP.  These Terms cover (i) the download of the APP from any App Store and (ii) use of the APP.
+Set out below are the terms and conditions (the "**Terms**") you are agreeing to when you use (however you access it from any mobile device) the APP.  
+These Terms cover (i) the download of the APP from any App Store and (ii) use of the APP.
 
 You should read, and ensure that you understand, all of the Terms prior to using the APP. If you do not agree to be bound by these Terms then you should not use or download or use the APP.
 
@@ -11,7 +12,7 @@ You should read, and ensure that you understand, all of the Terms prior to using
 2. When you download your digital content it will download automatically onto your mobile device. Please check the file size of your digital content carefully as using too much data might mean that you exceed your data limit on your mobile device and you could face paying more than you were expecting.
 3. This contract is only available in English. No other languages will apply to this contract.
 4. When downloading any digital content you also agree to be legally bound by our Website Terms and Conditions and any documents referred to in them, our cookie policy and our privacy policy.
-5. We reserve the right to alter these Terms from time to time by posting new terms and conditions on our website at Caite.co (“Site“). Your continued use of the APP (or any part thereof) following such change will be deemed to be your acceptance of such change.  It is your responsibility to check regularly to determine if the Terms have been changed.  If you do not agree to any change to the Terms, you must stop using the APP with immediate effect.
+5. We reserve the right to alter these Terms from time to time by posting new terms and conditions on our website at Caite.co ("**Site**"). Your continued use of the APP (or any part thereof) following such change will be deemed to be your acceptance of such change.  It is your responsibility to check regularly to determine if the Terms have been changed.  If you do not agree to any change to the Terms, you must stop using the APP with immediate effect.
 
 #### 2. Ordering digital content from us
 1. Below, we set out how a legally binding contract between you and us is made. By using this APP, you warrant that you have the right, authority and capacity to enter into and be bound by these Terms.
