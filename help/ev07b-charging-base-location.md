@@ -1,7 +1,5 @@
 ## Charging base location
 
-![floor plan](https://raw.githubusercontent.com/caiteltd/public/master/assets/floor-plan.png)
+Our home Locàite feature intelligently switches to indoor mode when near the charging base to greatly extend the battery life of your pendant.
 
-To preserve power and provide more accurate location when indoors, the tracker is connected to the charging base via blue tooth.
-
-Once in vicinity, the tracker sends the location of the charging base instead of trying to get the location from the satellites.
+The location you set here will be shown when Home Locàite is active. You can change this location if you later move the charging base.
