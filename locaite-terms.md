@@ -7,12 +7,13 @@ These Terms cover (i) the download of the APP from any App Store and (ii) use of
 
 You should read, and ensure that you understand, all of the Terms prior to using the APP. If you do not agree to be bound by these Terms then you should not use or download or use the APP.
 
+
 #### 1. Introduction
 1. If you download digital content from us you agree to be legally bound by these Terms.
 2. When you download your digital content it will download automatically onto your mobile device. Please check the file size of your digital content carefully as using too much data might mean that you exceed your data limit on your mobile device and you could face paying more than you were expecting.
 3. This contract is only available in English. No other languages will apply to this contract.
 4. When downloading any digital content you also agree to be legally bound by our Website Terms and Conditions and any documents referred to in them, our cookie policy and our privacy policy.
-5. We reserve the right to alter these Terms from time to time by posting new terms and conditions on our website at Caite.co ("**Site**"). Your continued use of the APP (or any part thereof) following such change will be deemed to be your acceptance of such change.  It is your responsibility to check regularly to determine if the Terms have been changed.  If you do not agree to any change to the Terms, you must stop using the APP with immediate effect.
+5. We reserve the right to alter these Terms from time to time by posting new terms and conditions on our website at Locaite.me ("**Site**"). Your continued use of the APP (or any part thereof) following such change will be deemed to be your acceptance of such change.  It is your responsibility to check regularly to determine if the Terms have been changed.  If you do not agree to any change to the Terms, you must stop using the APP with immediate effect.
 
 #### 2. Ordering digital content from us
 1. Below, we set out how a legally binding contract between you and us is made. By using this APP, you warrant that you have the right, authority and capacity to enter into and be bound by these Terms.
@@ -35,7 +36,6 @@ You should read, and ensure that you understand, all of the Terms prior to using
 9. We make no warranty that the contents of the APP are free from infection by viruses or anything else which has contaminating or destructive properties and shall have no liability in respect thereof.
 10. We have taken every care in the preparation of the content of the APP, however we cannot guarantee uninterrupted and totally reliable access to services provided through the APP, and therefore cannot guarantee that the information will always be completely up to date and free of mistakes. To the extent permitted by applicable law, we disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on or obtained via the APP and will accept no liability for any loss or damage arising as a result of problems with access.
 11. We shall not be liable to any person for any loss or damage howsoever caused which may arise from the use of any of the information and materials contained on or obtained via the APP.
-12. No right to cancel this contract once downloading starts
 
 #### 3. When you download the digital content:
 1. you have no right to cancel this contract once the automatic downloading of it starts other than in accordance with clause 2.2; and
