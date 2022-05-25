@@ -1,8 +1,8 @@
-## Locàite sim plan terms and conditions
+# Locàite sim plan terms and conditions
 
-### Summary
+## Summary
 
-#### Locàite SIM plans
+### Locàite SIM plans
 
 Locàite SIM plans cost £7.99 per month, which includes:
 * Unlimited data
@@ -15,11 +15,11 @@ Locàite SIM plans cost £7.99 per month, which includes:
 * EU and USA roaming available for small extra charge
 * Additional SMS messages and minutes over and above those included each month cost just 5p per SMS and 10p per minute.
 
-#### Right to cancel
+### Right to cancel
 
 You have the right to cancel at any time within the Locàite app without giving any reason. If you cancel within the first 14 days from you activating your Service, you can request a refund of the unused portion of your first month’s charge less any excess call or SMS charges.
 
-#### Effects of cancellation
+### Effects of cancellation
 
 If you activated any Locàite services during the cancellation period, you’ll still be responsible for paying for any services you use, such as call charges, SMS charges and data used up to the date of cancellation. We will refund your initial monthly subscription fee, less any charges accrued for services.
 
@@ -27,11 +27,11 @@ We will make the refund without undue delay, and not later than 14 days after th
 
 We will make the refund using the same means of payment as used for the initial transaction. You will not incur any fees as a result of the refund.
 
-#### How do I return my Products?
+### How do I return my Products?
 
 Once you have cancelled your Locàite contract, there is no need to return the Locàite SIM card to us. You will need to contact any hardware seller separately if you additionally plan to return your hardware product for a refund.
 
-### Customer agreement
+## Customer agreement
 
 I have read and agree to the following:
 
@@ -43,11 +43,11 @@ I’ll pay all charges (whether I use the SIM or not), due under this agreement.
 
 Càite Ltd. may use and share my personal information as described in clauses 13 and 14 and use information about the type of calls I make to analyse the service we provide and for marketing purposes.
 
-#### Locàite SIM Plan charges
+### Locàite SIM Plan charges
 
 The charges below will apply once you exceed your monthly inclusive allowance of 60 minutes of outgoing Tracker calls and 30 SMS messages to standard UK mobile or landline numbers.
 
-##### Standard UK call charges, cost per minute (1 minute minimum call charge)
+#### Standard UK call charges, cost per minute (1 minute minimum call charge)
 
 Calls to any UK mobile, standard UK landline (starting 01, 02, 03, 07) are charged at **10 pence per minute**.
 
@@ -55,7 +55,7 @@ Calls to non-geographic numbers (including 0844 and 0871) should not be required
 
 All standard UK call charges over and above your inclusive minutes allowance are charged by the second with a one minute minimum call charge. If you lose signal during a call you will remain connected to our network for a short period and will be charged accordingly. To avoid any unnecessary charges, please end each call in line with the user instructions of your handset.
 
-##### Other UK charges
+#### Other UK charges
 
 Cost per message for standard text message (up to 160 characters) is **5 pence per message**.
 
@@ -63,11 +63,11 @@ All data requirements for your Tracker are included on a fair usage basis.
 
 We block access to Premium Rate services and Directory Enquiries. If you require these or use these services from your Tracker, they will be charged at a minimum of £5.00 per minute.
 
-##### International calls and texts from the UK
+#### International calls and texts from the UK
 
 International Calls (standard rate/per minute – 1 minute minimum call charge) are charged at £1.50 per minute. Text messages are charged at 50 pence per message.
 
-##### Charges for using your tracker abroad (roaming)
+#### Charges for using your tracker abroad (roaming)
 
 If you wish to use your Tracker in any of the following countries, please contact us in advance to activate roaming for an additional £2.00 per month:
 
@@ -87,7 +87,7 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
 
 
-#### Locàite SIM Plan conditions
+### Locàite SIM Plan conditions
 
 1. What we mean
    - **We, our or us** – Càite Ltd.
