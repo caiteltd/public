@@ -193,7 +193,7 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
       - you ended this agreement under clause 11b; or
       - we ended this agreement because we were permanently unable to provide the services to you. In these three situations you do not have to pay all the plan charges until the end of the month.
 
-13. Liability and exclusions
+12. Liability and exclusions
 
     a. We are legally responsible to you if our negligence causes death or personal injury. We will not be legally responsible to you for:
 
@@ -204,9 +204,11 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
     We will not be legally responsible to you if we cannot provide the services because of something outside of our reasonable control.
 
-    b. Except for fraud or where our negligence causes death or personal injury, we will not pay more than £150 or 150% of the charges in the previous 12 months, whichever is higher, for each claim or a series of related claims. c. The terms of this agreement will not affect any rights which you may have under any law and which we cannot exclude under any agreement.
+    b. Except for fraud or where our negligence causes death or personal injury, we will not pay more than £150 or 150% of the charges in the previous 12 months, whichever is higher, for each claim or a series of related claims. 
+ 
+    c. The terms of this agreement will not affect any rights which you may have under any law and which we cannot exclude under any agreement.
 
-14. Personal information
+15. Personal information
 
     a. We may use your information to:
 
@@ -216,13 +218,13 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
     For more details on how we use your information, please read the privacy policy on our website.
 
-15. Credit-reference and fraud-prevention agencies
+16. Credit-reference and fraud-prevention agencies
 
     a. You can ask us about how we use your details for fraud prevention when you take out this agreement. We may also use any information we hold to trace debts and assess claims. If you don’t pay us in full, and on time, we may tell credit-reference agencies who will record the debt.
 
     b. If false or inaccurate information is provided and fraud is identified, details will be passed to fraud-prevention agencies. Law enforcement agencies may access and use this information.
 
-16. General
+17. General
 
     a. We may transfer this agreement to anyone at any time. However, you can’t transfer this agreement to anyone unless we’ve agreed in writing beforehand. We will not unreasonably refuse this request.
 
