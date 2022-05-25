@@ -105,12 +105,14 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
    • we end this agreement because we are permanently unable to provide the services to you.
 
-4. Services and coverage
+3. Services and coverage
+
    a. We will try to give you the services when you want them. However, due to the nature of mobile technology, it’s impossible to provide a fault-free service.
 
    b. Services and content services you enjoy in the UK may not be available when you’re abroad.
 
-5. Using the services – the rules
+4. Using the services – the rules
+
    a. It’s your responsibility to make sure you keep to this agreement, and you follow our instructions on using the services – even if someone else is using your tracker equipment.
 
    b. You must never use your tracker equipment or the services for anything we would consider is abusive, illegal, fraudulent, or a nuisance.
@@ -125,50 +127,52 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
    g. You must only use tracker equipment which is approved for connection to the services.
 
-6. Payment
+5. Payment
 
    a. You must pay your bill by auto-renewable subscription. Charges for the services will be automatically collected within seven days of the date on your bill. VAT will be included if it applies.
 
    b. If you owe us any money beyond your due date, and you do not have valid reasons for disputing the payment, we may charge you interest. We charge interest daily at the rate of 2% above the base rate of Barclays Bank each year. We may charge you reasonable administration costs as a result of you paying your bill late or failing to pay it.
 
-7. Losing your tracker equipment
+6. Losing your tracker equipment
    If your SIM or tracker equipment is lost or stolen, you must tell us as soon as possible so we can stop someone else using it. You’re responsible for all charges up until the time you report it missing to us. You must also continue to pay all the plan charges for the minimum period.
 
-8. Changing charges and terms
+7. Changing charges and terms
 
    a. We may change or introduce new charges. If we increase our charges, we’ll publish the changes on our website and give you at least 14 days’ notice.
 
    b. We may change or withdraw services at any time and we may change or introduce new terms to this agreement at any time. If we do, we’ll give you at least 30 days’ notice of these changes unless we believe such changes will not disadvantage you or which you don’t regularly use. If these changes are to your material detriment, you have a right to end this agreement under clause 11b and we’ll tell you if you do.
 
-9. Call/internet limit, deposit and part payments
+8. Call/internet limit, deposit and part payments
 
    a. We may set a monthly call and/or internet limit on your account. You may be able to go over your limit, but if this happens, you must pay all charges.
+
    b. If there’s a significant increase in your usage between bills, we may contact you and possibly ask for a part payment so you can continue to use the services.
 
-10. Suspending our services
+9. Suspending our services
 
-    a. We can suspend or restrict your use of any of the services if: 
+   a. We can suspend or restrict your use of any of the services if: 
 
-    * we believe your tracker equipment or the services are being used in a way we do not allow under this agreement;
-    * you have not kept to this agreement (for example, you fail to pay any charges when due);
-    * we have asked you for a deposit or part payment which you’ve not paid;
-    * you go over your call or internet limit;
-    * we believe that this agreement was entered into fraudulently or you got the use of any number, tracker equipment or services in an unauthorised, illegal, or fraudulent way;
-    * you tell us that your tracker equipment has been lost or stolen;
-    * you become bankrupt or make any arrangement with creditors or go into liquidation or an administration order is made or a receiver is appointed over any of your assets;
-    * you do anything (or allow anything to be done) which we think may damage or affect the operation of our network or services; or
-    * the emergency services tell us to, or a law or regulation is passed which means we need to do so.
+   * we believe your tracker equipment or the services are being used in a way we do not allow under this agreement;
+   * you have not kept to this agreement (for example, you fail to pay any charges when due);
+   * we have asked you for a deposit or part payment which you’ve not paid;
+   * you go over your call or internet limit;
+   * we believe that this agreement was entered into fraudulently or you got the use of any number, tracker equipment or services in an unauthorised, illegal, or fraudulent way;
+   * you tell us that your tracker equipment has been lost or stolen;
+   * you become bankrupt or make any arrangement with creditors or go into liquidation or an administration order is made or a receiver is appointed over any of your assets;
+   * you do anything (or allow anything to be done) which we think may damage or affect the operation of our network or services; or
+   * the emergency services tell us to, or a law or regulation is passed which means we need to do so.
 
-    b. We will try to tell you when we suspend or restrict your use, but we do not have to.
+   b. We will try to tell you when we suspend or restrict your use, but we do not have to.
 
-    c. When we suspend or restrict your use, this agreement will continue and you still have to pay all charges due during any period when we suspend or restrict the service.
+   c. When we suspend or restrict your use, this agreement will continue and you still have to pay all charges due during any period when we suspend or restrict the service.
 
-11. Credits if there is a failure of the service
+10. Credits if there is a failure of the service
    If there is a technical fault on the network that means you can’t use all the services for three days in a row, we’ll credit you for the plan charge for the period the service was not available.
 
-12. Ending this agreement
+11. Ending this agreement
 
     a. Either you or we may end this agreement by giving the other 30 days’ notice in writing. Your notice must include your tracker number and your registered email address. You must pay all plan charges during the notice period.
+
     b. You may end this agreement by writing to us if:
 
     - we don’t do something fundamental that we should have done under this agreement (for example, if there is a complete failure of the entire UK network for seven days in a row due to something we have done), within seven days of you asking us in writing;
@@ -236,6 +240,5 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
       
 
     Registered in Scotland number SC632205 at 64A Cumberland Street, Edinburgh, EH3 6RE.
-    
 
     Version 20220525.1.0 updated May 2022.
