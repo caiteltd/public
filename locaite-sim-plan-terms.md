@@ -97,14 +97,20 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
    - **Services** – the communications service you receive through the network and other services we may provide to you.
 
 2. Your agreement period
-   Unless we tell you otherwise, we’ll continue to supply you with the services included in your plan until we or you end this agreement in line with clause 11. If this agreement ends early, you must still pay all the plan charges due. This applies when this agreement comes to an end in clause 11, except if: • we end this agreement under clause 11a; or • you end this agreement under clause 11b; or • we end this agreement because we are permanently unable to provide the services to you.
+   Unless we tell you otherwise, we’ll continue to supply you with the services included in your plan until we or you end this agreement in line with clause 11. If this agreement ends early, you must still pay all the plan charges due. This applies when this agreement comes to an end in clause 11, except if:
 
-3. Services and coverage
+   • we end this agreement under clause 11a; or
+
+   • you end this agreement under clause 11b; or 
+
+   • we end this agreement because we are permanently unable to provide the services to you.
+
+4. Services and coverage
    a. We will try to give you the services when you want them. However, due to the nature of mobile technology, it’s impossible to provide a fault-free service.
 
    b. Services and content services you enjoy in the UK may not be available when you’re abroad.
 
-4. Using the services – the rules
+5. Using the services – the rules
    a. It’s your responsibility to make sure you keep to this agreement, and you follow our instructions on using the services – even if someone else is using your tracker equipment.
 
    b. You must never use your tracker equipment or the services for anything we would consider is abusive, illegal, fraudulent, or a nuisance.
@@ -119,48 +125,48 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
    g. You must only use tracker equipment which is approved for connection to the services.
 
-5. Payment
+6. Payment
 
    a. You must pay your bill by auto-renewable subscription. Charges for the services will be automatically collected within seven days of the date on your bill. VAT will be included if it applies.
 
    b. If you owe us any money beyond your due date, and you do not have valid reasons for disputing the payment, we may charge you interest. We charge interest daily at the rate of 2% above the base rate of Barclays Bank each year. We may charge you reasonable administration costs as a result of you paying your bill late or failing to pay it.
 
-6. Losing your tracker equipment
+7. Losing your tracker equipment
    If your SIM or tracker equipment is lost or stolen, you must tell us as soon as possible so we can stop someone else using it. You’re responsible for all charges up until the time you report it missing to us. You must also continue to pay all the plan charges for the minimum period.
 
-7. Changing charges and terms
+8. Changing charges and terms
 
    a. We may change or introduce new charges. If we increase our charges, we’ll publish the changes on our website and give you at least 14 days’ notice.
 
    b. We may change or withdraw services at any time and we may change or introduce new terms to this agreement at any time. If we do, we’ll give you at least 30 days’ notice of these changes unless we believe such changes will not disadvantage you or which you don’t regularly use. If these changes are to your material detriment, you have a right to end this agreement under clause 11b and we’ll tell you if you do.
 
-8. Call/internet limit, deposit and part payments
+9. Call/internet limit, deposit and part payments
 
    a. We may set a monthly call and/or internet limit on your account. You may be able to go over your limit, but if this happens, you must pay all charges.
    b. If there’s a significant increase in your usage between bills, we may contact you and possibly ask for a part payment so you can continue to use the services.
 
-9. Suspending our services
+10. Suspending our services
 
-   a. We can suspend or restrict your use of any of the services if: 
+    a. We can suspend or restrict your use of any of the services if: 
 
-   * we believe your tracker equipment or the services are being used in a way we do not allow under this agreement;
-   * you have not kept to this agreement (for example, you fail to pay any charges when due);
-   * we have asked you for a deposit or part payment which you’ve not paid;
-   * you go over your call or internet limit;
-   * we believe that this agreement was entered into fraudulently or you got the use of any number, tracker equipment or services in an unauthorised, illegal, or fraudulent way;
-   * you tell us that your tracker equipment has been lost or stolen;
-   * you become bankrupt or make any arrangement with creditors or go into liquidation or an administration order is made or a receiver is appointed over any of your assets;
-   * you do anything (or allow anything to be done) which we think may damage or affect the operation of our network or services; or
-   * the emergency services tell us to, or a law or regulation is passed which means we need to do so.
+    * we believe your tracker equipment or the services are being used in a way we do not allow under this agreement;
+    * you have not kept to this agreement (for example, you fail to pay any charges when due);
+    * we have asked you for a deposit or part payment which you’ve not paid;
+    * you go over your call or internet limit;
+    * we believe that this agreement was entered into fraudulently or you got the use of any number, tracker equipment or services in an unauthorised, illegal, or fraudulent way;
+    * you tell us that your tracker equipment has been lost or stolen;
+    * you become bankrupt or make any arrangement with creditors or go into liquidation or an administration order is made or a receiver is appointed over any of your assets;
+    * you do anything (or allow anything to be done) which we think may damage or affect the operation of our network or services; or
+    * the emergency services tell us to, or a law or regulation is passed which means we need to do so.
 
-   b. We will try to tell you when we suspend or restrict your use, but we do not have to.
+    b. We will try to tell you when we suspend or restrict your use, but we do not have to.
 
-   c. When we suspend or restrict your use, this agreement will continue and you still have to pay all charges due during any period when we suspend or restrict the service.
+    c. When we suspend or restrict your use, this agreement will continue and you still have to pay all charges due during any period when we suspend or restrict the service.
 
-10. Credits if there is a failure of the service
+11. Credits if there is a failure of the service
    If there is a technical fault on the network that means you can’t use all the services for three days in a row, we’ll credit you for the plan charge for the period the service was not available.
 
-11. Ending this agreement
+12. Ending this agreement
 
     a. Either you or we may end this agreement by giving the other 30 days’ notice in writing. Your notice must include your tracker number and your registered email address. You must pay all plan charges during the notice period.
     b. You may end this agreement by writing to us if:
@@ -183,7 +189,7 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
       - you ended this agreement under clause 11b; or
       - we ended this agreement because we were permanently unable to provide the services to you. In these three situations you do not have to pay all the plan charges until the end of the month.
 
-12. Liability and exclusions
+13. Liability and exclusions
 
     a. We are legally responsible to you if our negligence causes death or personal injury. We will not be legally responsible to you for:
 
@@ -196,7 +202,7 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
     b. Except for fraud or where our negligence causes death or personal injury, we will not pay more than £150 or 150% of the charges in the previous 12 months, whichever is higher, for each claim or a series of related claims. c. The terms of this agreement will not affect any rights which you may have under any law and which we cannot exclude under any agreement.
 
-13. Personal information
+14. Personal information
 
     a. We may use your information to:
 
@@ -206,13 +212,13 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
     For more details on how we use your information, please read the privacy policy on our website.
 
-14. Credit-reference and fraud-prevention agencies
+15. Credit-reference and fraud-prevention agencies
 
     a. You can ask us about how we use your details for fraud prevention when you take out this agreement. We may also use any information we hold to trace debts and assess claims. If you don’t pay us in full, and on time, we may tell credit-reference agencies who will record the debt.
 
     b. If false or inaccurate information is provided and fraud is identified, details will be passed to fraud-prevention agencies. Law enforcement agencies may access and use this information.
 
-15. General
+16. General
 
     a. We may transfer this agreement to anyone at any time. However, you can’t transfer this agreement to anyone unless we’ve agreed in writing beforehand. We will not unreasonably refuse this request.
 
