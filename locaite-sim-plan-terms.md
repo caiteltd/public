@@ -1,4 +1,4 @@
-# Locàite sim plan terms and conditions
+# Locàite SIM plan terms and conditions
 
 ## Summary
 
