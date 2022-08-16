@@ -4,7 +4,7 @@
 
 ### Locàite SIM plans (4g)
 
-Locàite SIM plans cost £11.99 per month, which includes:
+Locàite SIM plans cost **£11.99** per month, which includes:
 * Unlimited data
 * 60 minutes of emergency Tracker calls to standard UK mobile or landline numbers
 * 30 optional emergency SMS messages (can be turned off via app)
