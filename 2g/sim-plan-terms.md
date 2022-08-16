@@ -1,10 +1,10 @@
-# Locàite SIM plan terms and conditions
+# Locàite 2g SIM plan terms and conditions
 
 ## Summary
 
-### Locàite SIM plans
+### Locàite 2g SIM plans
 
-Locàite SIM plans cost **£7.99** per month, which includes:
+Locàite 2g SIM plans cost **£7.99** per month, which includes:
 * Unlimited data
 * 60 minutes of emergency Tracker calls to standard UK mobile or landline numbers
 * 30 optional emergency SMS messages (can be turned off via app)
@@ -35,15 +35,15 @@ Once you have cancelled your Locàite contract, there is no need to return the L
 
 I have read and agree to the following:
 
-This agreement covers the SIM and any services I use in my Locàite SIM Plan. It doesn’t cover any hardware equipment.
+This agreement covers the SIM and any services I use in my Locàite 2g SIM plan. It doesn’t cover any hardware equipment.
 
-This agreement starts when I subscribe to a Locàite SIM Plan. You have the right to cancel at any time within the Locàite app without giving any reason. If you cancel within the first 14 days from you activating your Service, you can request a refund of the unused portion of your first month’s subscription fee less any excess call or SMS charges. To exercise your right to cancel within 14 days you must inform us of your decision to cancel your contract by sending us an email at [help@caite.co](mailto:help@caite.co)
+This agreement starts when I subscribe to a Locàite 2g SIM plan. You have the right to cancel at any time within the Locàite app without giving any reason. If you cancel within the first 14 days from you activating your Service, you can request a refund of the unused portion of your first month’s subscription fee less any excess call or SMS charges. To exercise your right to cancel within 14 days you must inform us of your decision to cancel your contract by sending us an email at [help@caite.co](mailto:help@caite.co)
 
-I’ll pay all charges (whether I use the SIM or not), due under this agreement. The minimum price for the services provided under this agreement is the cost of all the Locàite SIM Plan charges I incur when my Locàite SIM Plan is active. I must pay by in app, auto-renewable subscription. We sometimes have to put up our charges or change our services during your agreement. If this happens, we’ll tell you beforehand. You can read more about this in section 7. If my tracker equipment is lost, damaged or stolen, I’ll still have to pay all the plan charges until I cancel my subscription. If someone finds or steals my tracker equipment or SIM, I’ll have to pay any charges they run up until I tell Càite Ltd it’s been lost or stolen. Charges for using the SIM abroad may be a lot higher than UK charges and I may be charged for receiving calls.
+I’ll pay all charges (whether I use the SIM or not), due under this agreement. The minimum price for the services provided under this agreement is the cost of all the Locàite 2g SIM plan charges I incur when my Locàite 2g SIM plan is active. I must pay by in app, auto-renewable subscription. We sometimes have to put up our charges or change our services during your agreement. If this happens, we’ll tell you beforehand. You can read more about this in section 7. If my tracker equipment is lost, damaged or stolen, I’ll still have to pay all the plan charges until I cancel my subscription. If someone finds or steals my tracker equipment or SIM, I’ll have to pay any charges they run up until I tell Càite Ltd it’s been lost or stolen. Charges for using the SIM abroad may be a lot higher than UK charges and I may be charged for receiving calls.
 
 Càite Ltd. may use and share my personal information as described in clauses 13 and 14 and use information about the type of calls I make to analyse the service we provide and for marketing purposes.
 
-### Locàite SIM Plan charges
+### Locàite 2g SIM plan charges
 
 The charges below will apply once you exceed your monthly inclusive allowance of 60 minutes of outgoing Tracker calls and 30 SMS messages to standard UK mobile or landline numbers.
 
@@ -87,12 +87,12 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
 
 
-### Locàite SIM Plan conditions
+### Locàite 2g SIM plan conditions
 
 1. What we mean
    - **We, our or us** – Càite Ltd.
    - **You or your** – the customer whose name appears on the account. Agreement – these conditions, the plan and the charges guide and any terms and conditions for any other products and services you choose to take out.
-   - **Charges** – charges for services, as published in our Locàite SIM Plan charges or which we otherwise provide.
+   - **Charges** – charges for services, as published in our Locàite 2g SIM plan charges or which we otherwise provide.
    - **Network** – the electronic communications systems we use to provide the services in the UK.
    - **Services** – the communications service you receive through the network and other services we may provide to you.
 
