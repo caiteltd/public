@@ -13,7 +13,7 @@ Locàite 4g SIM plans cost **£14.99** per month, which includes:
 * Unlimited Fall alerts and Zone enter/exit alerts
 * Unlimited access to Locàite Insights, including 7-day movement charts (requires optional Room Locàite beacons).
 * Online UK support
-* Additional SMS messages and minutes over and above those included each month cost just 10p per SMS and 15p per minute.
+* In the unlikely event that you exceed your inclusive allowance of calls and SMS messages, additional messages and minutes cost just 10p per SMS and 15p per minute.
 
 ### Right to cancel
 
