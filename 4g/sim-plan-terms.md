@@ -6,7 +6,7 @@
 
 Locàite 4g SIM plans cost **£14.99** per month, which includes:
 * Unlimited data
-* 100 minutes of emergency calls to standard mobile or landline numbers anywhere within the UK, EU and USA.
+* 100 minutes of emergency calls from the UK or EU to standard mobile or landline numbers anywhere within the UK, EU and USA.
 * 60 optional emergency SMS messages (can be turned on and off via app)
 * Unlimited access to the easy to use Locàite app
 * Unlimited location tracking with the Locàite app
@@ -41,7 +41,7 @@ The Locàite 4g SIM plan cost **£14.99** per month.
 
 The charges below will apply once you exceed your monthly inclusive allowance of 100 minutes of outgoing calls and 60 SMS messages to standard mobile or landline numbers within the following countries:
 
-Austria, Belgium, Bulgaria, Channel Islands, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Isle of Man, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, UK, USA.
+Austria, Belgium, Bulgaria, Channel Islands, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Isle of Man, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, UK.
 
 
 #### Standard call charges, cost per minute (1 minute minimum call charge)
@@ -215,7 +215,7 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
 
     c. A person who is not a party to this agreement has no right to benefit under or to enforce any terms of this agreement.
 
-    d. When you use your equipment, your device’s number may be shown to the equipment being contacted. We’ll send you notices by post or other form of electronic message and will assume for notices by post that you have received them 48 hours after we have sent them. We’ll send all bills and notices electronically to the email address you have given. You must tell us about any changes to your email address. If you want to write or email us, please use the address shown on our [www.Locàite.me](http://locaite.me/) website.
+    d. When you use your equipment, your device’s number may be shown to the equipment being contacted. We’ll send you notices by post or other form of electronic message and will assume for notices by post that you have received them 48 hours after we have sent them. We’ll send all bills and notices electronically to the email address you have given. You must tell us about any changes to your email address. If you want to write or email us, please use the address shown on our [www.Locaite.me](http://locaite.me/) website.
 
     e. If you have a complaint, please contact us. We will do our best to fix your issues. You or we may bring legal proceedings in a court in the UK to resolve a dispute under this agreement.
 
@@ -224,6 +224,6 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
     - you live in Scotland, in which case, it will be governed by Scots law.
       
 
-    Registered in Scotland number SC632205 at 64A Cumberland Street, Edinburgh, EH3 6RE.
+    Registered in Scotland number SC632205 at 5 South Charlotte Street, Edinburgh, EH2 4AN.
 
-    Version 20220908.1.0 updated September 2022.
+    Version 20240305.1.0 updated March 2024.
