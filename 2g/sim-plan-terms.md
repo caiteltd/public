@@ -12,7 +12,6 @@ Locàite 2g SIM plans cost **£7.99** per month, which includes:
 * Unlimited tracking with the Locàite app
 * Unlimited Fall alerts and Zone enter/exit alerts
 * Online UK support
-* EU and USA roaming available for small extra charge
 * Additional SMS messages and minutes over and above those included each month cost just 5p per SMS and 10p per minute.
 
 ### Right to cancel
@@ -71,7 +70,7 @@ International Calls (standard rate/per minute – 1 minute minimum call charge) 
 
 If you wish to use your Tracker in any of the following countries, please contact us in advance to activate roaming for an additional £2.00 per month:
 
-USA, Austria, Belgium, Bulgaria, Channel Islands*, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar*, Greece, Hungary, Iceland*, Ireland, Isle of Man*, Italy, Latvia, Liechtenstein*, Lithuania, Luxembourg, Malta, Netherlands, Norway*, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland*.
+Austria, Belgium, Bulgaria, Channel Islands*, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar*, Greece, Hungary, Iceland*, Ireland, Isle of Man*, Italy, Latvia, Liechtenstein*, Lithuania, Luxembourg, Malta, Netherlands, Norway*, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden.
 
 Calls to any standard mobile or landline across these available roaming countries are charged at **15 pence per minute**.
 
@@ -241,6 +240,6 @@ Prices are correct at time of print and are inclusive of VAT. All our services m
     - you live in Scotland, in which case, it will be governed by Scots law.
       
 
-    Registered in Scotland number SC632205 at 64A Cumberland Street, Edinburgh, EH3 6RE.
+    Registered in Scotland number SC632205 at 5 South Charlotte Street, Edinburgh, EH2 4AN.
 
-    Version 20220525.1.0 updated May 2022.
+    Version 20240304.1.0 updated March 2024.
